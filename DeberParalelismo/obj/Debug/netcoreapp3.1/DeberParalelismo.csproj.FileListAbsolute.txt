@@ -1,0 +1,13 @@
+C:\Users\usuario\source\repos\DeberParalelismo\DeberParalelismo\obj\Debug\netcoreapp3.1\DeberParalelismo.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\DeberParalelismo\DeberParalelismo\obj\Debug\netcoreapp3.1\DeberParalelismo.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\DeberParalelismo\DeberParalelismo\obj\Debug\netcoreapp3.1\DeberParalelismo.AssemblyInfo.cs
+C:\Users\usuario\source\repos\DeberParalelismo\DeberParalelismo\obj\Debug\netcoreapp3.1\DeberParalelismo.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\DeberParalelismo\DeberParalelismo\bin\Debug\netcoreapp3.1\DeberParalelismo.exe
+C:\Users\usuario\source\repos\DeberParalelismo\DeberParalelismo\bin\Debug\netcoreapp3.1\DeberParalelismo.deps.json
+C:\Users\usuario\source\repos\DeberParalelismo\DeberParalelismo\bin\Debug\netcoreapp3.1\DeberParalelismo.runtimeconfig.json
+C:\Users\usuario\source\repos\DeberParalelismo\DeberParalelismo\bin\Debug\netcoreapp3.1\DeberParalelismo.runtimeconfig.dev.json
+C:\Users\usuario\source\repos\DeberParalelismo\DeberParalelismo\bin\Debug\netcoreapp3.1\DeberParalelismo.dll
+C:\Users\usuario\source\repos\DeberParalelismo\DeberParalelismo\bin\Debug\netcoreapp3.1\DeberParalelismo.pdb
+C:\Users\usuario\source\repos\DeberParalelismo\DeberParalelismo\obj\Debug\netcoreapp3.1\DeberParalelismo.dll
+C:\Users\usuario\source\repos\DeberParalelismo\DeberParalelismo\obj\Debug\netcoreapp3.1\DeberParalelismo.pdb
+C:\Users\usuario\source\repos\DeberParalelismo\DeberParalelismo\obj\Debug\netcoreapp3.1\DeberParalelismo.genruntimeconfig.cache
